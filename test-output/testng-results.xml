@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-29T18:32:13 CEST" name="Default suite" finished-at="2022-03-29T18:32:13 CEST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2022-03-29T18:32:13 CEST" name="Default test" finished-at="2022-03-29T18:32:13 CEST" duration-ms="104">
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@25fb8912]" started-at="2022-03-29T18:32:13 CEST" name="deleteTwitter" finished-at="2022-03-29T18:32:13 CEST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@25fb8912]" started-at="2022-03-29T18:32:13 CEST" name="postJira" finished-at="2022-03-29T18:32:13 CEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Mavenjava.RESTAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

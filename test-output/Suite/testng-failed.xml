@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="URL" value="qaclick.academy.com"/>
+  <test thread-count="5" name="Car Loan(failed)">
+    <classes>
+      <class name="test2.day3">
+        <methods>
+          <include name="AfterEvery"/>
+          <include name="AfterClass"/>
+          <include name="BFsuite"/>
+          <include name="beforeclass"/>
+          <include name="WebLoginHomeLoan"/>
+          <include name="BeforeEvery"/>
+        </methods>
+      </class> <!-- test2.day3 -->
+    </classes>
+  </test> <!-- Car Loan(failed) -->
+</suite> <!-- Failed suite [Suite] -->
